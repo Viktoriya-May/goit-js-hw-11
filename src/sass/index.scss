@@ -46,7 +46,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 2.5em;
+    width: 60px;
     border: none;
     background-color: rgb(247, 201, 232);
     border-radius: 0 4px 4px 0;
@@ -55,7 +55,7 @@
   
   .search-form button:hover,
   .search-form button:focus {
-    background-color: rgb(180, 180, 180);
+    background-color: rgb(92, 11, 85);
     transition: all 0.3s;
   }
   
